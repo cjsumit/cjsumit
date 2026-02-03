@@ -7,9 +7,6 @@
 
 
 <br>
-
-
-
 	
 ## <picture><img src = "Assets/about_me.gif" width = 50px></picture> **About me**
 
