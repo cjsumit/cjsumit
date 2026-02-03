@@ -86,7 +86,6 @@
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=cjsumit&theme=catppuccin_mocha&hide_border=false) | ![](https://readme-jokes.vercel.app/api) |
 
 ![](https://github-readme-stats.vercel.app/api?username=cjsumit&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cjsumit&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cjsumit&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
