@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "Assets/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="Assets/git-header.svg" width = 250px height = 100px></picture>
+<picture> <img align="right" src="Assets/git-header.svg" width = 250px height = 300px></picture>
 
 <br>
 
