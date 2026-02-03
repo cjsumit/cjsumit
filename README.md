@@ -85,7 +85,7 @@
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=cjsumit&theme=catppuccin_mocha&hide_border=false) | ![](https://readme-jokes.vercel.app/api) |
 
-![Sumit’s GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cjsumit&theme=react-dark&hide_border=true&area=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cjsumit&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
@@ -105,7 +105,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-vishwakarma272/)
 <br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Cj_sumit_01)<br> [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Cj_sumit) <br>[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/sumit-vishwakarma) 
-<img alt="Coding Gif" src="Assets/code.gif" height="100px" align="right"/>&nbsp;
+<img alt="Coding Gif" src="Assets/code.gif" height="50px" align="right"/>&nbsp;
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
