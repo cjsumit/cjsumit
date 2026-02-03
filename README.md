@@ -85,7 +85,7 @@
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=cjsumit&theme=catppuccin_mocha&hide_border=false) | ![](https://readme-jokes.vercel.app/api) |
 
-![Sumit’s GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cjsumit&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
+![Sumit’s GitHub Activity Graph]([https://activity-graph.herokuapp.com/graph?username=cjsumit&theme=react-dark&hide_border=true&area=true&bg_color=9842f5](https://activity-graph.herokuapp.com/graph?username=cjsumit&theme=react-dark&hide_border=true&area=true))
 
 
 <br>
@@ -104,14 +104,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-vishwakarma272/)
 <br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Cj_sumit_01)<br> [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Cj_sumit) <br>[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/sumit-vishwakarma) 
-<img alt="Coding Gif" src="Assets/code.gif" height="200" align="right"/>&nbsp;
+<img alt="Coding Gif" src="Assets/code.gif" height="100" align="right"/>&nbsp;
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 <div align='center'>
 
- <b>🕉️ वसुधैव कुटुम्बकम् 🪈</b>
+ <b><h2>🕉️ वसुधैव कुटुम्बकम् 🪈</h2></b>
 
 </div>
 <br>
