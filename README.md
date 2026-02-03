@@ -75,7 +75,7 @@
 
 ## 
 
-  ![Dino](Assets/Dino.gif)
+  <picture><img src = "Assets/dino.gif"></picture>
 
 -----
 
